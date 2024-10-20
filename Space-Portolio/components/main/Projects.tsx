@@ -48,7 +48,7 @@ const Projects = () => {
           src="/tomato.png"
           title="Tomato - Food Delivery"
           description="A food delivery app that allows users to browse menus, place orders, and track their food in real time. Offers smooth navigation and user-friendly design."
-          link="https://sajalnamdeo.vercel.app"
+          link="https://food-delivery-frontend-no0l.onrender.com/"
           key="1"
         />
         <ProjectCard
