@@ -23,11 +23,12 @@ const Projects = () => {
           link="https://krishi-seva-web-design-second-repo.vercel.app/"
           key="1"
         />
-        <ProjectCard
-          src="/interviewiq.png"
-          title="InterviewIQ"
-          description="A platform to help job seekers prepare for technical interviews by practicing coding challenges and getting personalized feedback."
-          link="https://interviewiq.vercel.app/"
+        
+         <ProjectCard
+          src="/syncstream.png"
+          title="SyncStream"
+          description="SyncStreamis a video calling platform enabling seamless virtual meetings with features like screen sharing, chat, and secure video calls."
+          link="https://syncstream-ten.vercel.app/"
           key="1"
         />
         <ProjectCard
@@ -66,10 +67,10 @@ const Projects = () => {
           key="1"
         />
         <ProjectCard
-          src="/syncstream.png"
-          title="SyncStream"
-          description="SyncStreamis a video calling platform enabling seamless virtual meetings with features like screen sharing, chat, and secure video calls."
-          link="https://syncstream-ten.vercel.app/"
+          src="/interviewiq.png"
+          title="InterviewIQ"
+          description="A platform to help job seekers prepare for technical interviews by practicing coding challenges and getting personalized feedback."
+          link="https://interviewiq.vercel.app/"
           key="1"
         />
       </div>
