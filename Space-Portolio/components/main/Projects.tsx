@@ -66,10 +66,10 @@ const Projects = () => {
           key="1"
         />
         <ProjectCard
-          src="/eyespy.png"
-          title="Eye-Spy"
-          description="An assistive app that uses camera input and object detection to help visually impaired individuals navigate their surroundings with more confidence."
-          link="https://sajal072004.github.io/eyesspy/"
+          src="/syncstream.png"
+          title="SyncStream"
+          description="SyncStreamis a video calling platform enabling seamless virtual meetings with features like screen sharing, chat, and secure video calls."
+          link="https://syncstream-ten.vercel.app/"
           key="1"
         />
       </div>
