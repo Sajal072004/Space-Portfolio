@@ -9,6 +9,13 @@ const Projects = () => {
       </h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-10 z-20">
+      <ProjectCard
+          src="/linkup.png"
+          title="TaskBridge"
+          description="A social media platform where users can follow friends, post updates, and engage with stories. Built using Next.js, Prisma, and PostgreSQL."
+          link="https://task-bridge.vercel.app"
+          key="1"
+        />
         <ProjectCard
           src="/linkup.png"
           title="LinkUp"
