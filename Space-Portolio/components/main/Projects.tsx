@@ -10,9 +10,9 @@ const Projects = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 px-10 z-20">
       <ProjectCard
-          src="/linkup.png"
+          src="/taskbridge.png"
           title="TaskBridge"
-          description="A social media platform where users can follow friends, post updates, and engage with stories. Built using Next.js, Prisma, and PostgreSQL."
+          description="TaskBridge is a project management platform for creating projects, assigning tasks, and tracking progress. With features like task prioritization, timelines, and drag-and-drop boards, it helps teams stay organized."
           link="https://task-bridge.vercel.app"
           key="1"
         />
